@@ -651,12 +651,12 @@ input, select, textarea {
 			border-radius: 4px;
 			content: '';
 			display: block;
-			height: 600%;
+			height: 100%;
 			left: 0;
 			opacity: 0.5;
 			position: absolute;
 			top: 0;
-			width: 600%;
+			width: 100%;
 		}
 
 		.image img {
